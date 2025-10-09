@@ -1,0 +1,249 @@
+{
+  "personal_info": {
+    "name": "Tushar S Chillal",
+    "title": "ECE Student & Robotics Researcher",
+    "institution": "Manipal Institute of Technology",
+    "location": "Bengaluru, Karnataka, India",
+    "cgpa": "9.05",
+    "graduation_year": "2024-2028",
+    "linkedin": "https://www.linkedin.com/in/tushar-s-chillal-59146b334",
+    "github": "https://github.com/tusharChillal",
+    "email": "tushar.chillal@example.com",
+    "followers": 295,
+    "impressions": 2466
+  },
+  "experience": [
+    {
+      "title": "Researcher",
+      "organization": "Center of Excellence in Autonomous Mobility",
+      "institution": "Manipal Institute of Technology",
+      "type": "Full-time",
+      "duration": "Apr 2025 - Present",
+      "months": "7 mos",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Research and development in autonomous mobility systems and robotics"
+    },
+    {
+      "title": "Member",
+      "organization": "IEEE CIS MIT Bengaluru",
+      "type": "Full-time",
+      "duration": "Nov 2024 - Present",
+      "months": "1 yr",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Co-authored article on Natural Language Processing (NLP)"
+    },
+    {
+      "title": "Member",
+      "organization": "RADAR, MIT BIr",
+      "type": "Full-time",
+      "duration": "6 mos",
+      "location": "Bengaluru, Karnataka, India",
+      "description": "Co-hosted 3-day Arduino Workshop on embedded systems and IoT"
+    },
+    {
+      "title": "Robotics Team Leader",
+      "duration": "Feb 2025 - Apr 2025",
+      "months": "3 mos",
+      "description": "Led robotics team in various competitions and projects"
+    },
+    {
+      "title": "Robotic Team",
+      "duration": "Nov 2024 - Feb 2025",
+      "months": "4 mos",
+      "type": "On-site",
+      "description": "Team member working on robotics projects and competitions"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TusharBot_One (ROS2 Differential Drive Rover)",
+      "duration": "Jun 2025 - Present",
+      "github": "https://github.com/tusharChillal/tusharBot_one",
+      "description": "Designed and built TusharBot_One, a modular differential-drive rover powered by ROS 2 Jazzy. The platform combines a Raspberry Pi 5, ESP32/Arduino motor controller, and a custom Li-ion power system to enable reliable experimentation in robotics. It supports teleoperation (joystick & keyboard), vision-based control (face/hand tracking), and is structured for easy extension into SLAM, and autonomous exploration.",
+      "skills": [
+        "Robot Operating System (ROS)",
+        "Python",
+        "C++",
+        "Arduino",
+        "Arduino IDE",
+        "Electronics",
+        "Power Electronics",
+        "Mobile Robotics",
+        "Raspberry Pi",
+        "Ubuntu"
+      ],
+      "images": [
+        "TusharBot_One.jpg",
+        "TusharBot_One1.jpg"
+      ]
+    },
+    {
+      "name": "MAVRO ROS2 Challenge \u2013 Recruitment Project (Center of Excellence, 2025)",
+      "duration": "Aug 2025 - Aug 2025",
+      "institution": "Manipal Institute of Technology",
+      "description": "Developed a ROS2-based robotics recruitment challenge under MAVRO \u2013 Center of Excellence at my college. Designed a Dockerized simulation environment where candidates performed SLAM, teleoperation, and autonomous navigation tasks using Nav2, Gazebo, and RViz. The challenge tested real-world robotics concepts such as mapping, localization, and multi-goal navigation, serving as a hands-on evaluation tool for MAVRO's 2025 recruitment process.",
+      "skills": [
+        "Python",
+        "Robot Operating System (ROS)",
+        "Robotics",
+        "SLAM",
+        "Gazebo",
+        "Rviz",
+        "Nav2",
+        "Docker"
+      ],
+      "images": [
+        "ROS2_Challenge.jpg",
+        "ROS2_Challenge1.jpg"
+      ]
+    },
+    {
+      "name": "NXP AIM 2025",
+      "duration": "Jun 2025 - Jul 2025",
+      "description": "Selected as one of the Top 30 teams in Bangalore region out of 5500+ applicants nationwide for the NXP AIM 2025 \u2013 Artificial Intelligence in Mobility regional round held in Bangalore. The challenge involved designing and developing an autonomous robotic solution capable of performing complex navigation, perception, and AI tasks in a simulated warehouse environment.",
+      "skills": [
+        "Robot Operating System (ROS)",
+        "SLAM",
+        "Computer Vision",
+        "Artificial Intelligence (AI)",
+        "Robotics"
+      ],
+      "team": [
+        "Paranjay Lokesh Chaudhary",
+        "Preethana Couppoussamy",
+        "Uttam Vishnumahanthi"
+      ],
+      "images": [
+        "NXP_AIM_2025.jpg"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "NXP AIM 2025 Regional Finale",
+      "issuer": "NXP AIM India",
+      "issue_date": "Jul 2025",
+      "skills": [
+        "Robot Operating System (ROS)",
+        "Robotics",
+        "Artificial Intelligence (AI)",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Introduction to Self-Driving Cars",
+      "issuer": "University of Toronto",
+      "issue_date": "Jun 2025",
+      "credential_id": "T6D1VBNJW1Q4"
+    },
+    {
+      "name": "Center of excellence in autonomous mobility",
+      "issuer": "Manipal Institute of Technology",
+      "issue_date": "Apr 2025"
+    },
+    {
+      "name": "Computer Vision with Embedded Machine Learning",
+      "issuer": "Edge Impulse",
+      "issue_date": "Jan 2025",
+      "credential_id": "UMAHBPDEMIWE"
+    },
+    {
+      "name": "AI For Everyone",
+      "issuer": "DeepLearning.AI",
+      "issue_date": "Nov 2024",
+      "credential_id": "27BOV8MTXIZR"
+    },
+    {
+      "name": "Introduction to Embedded Machine Learning",
+      "issuer": "Edge Impulse",
+      "issue_date": "Nov 2024",
+      "credential_id": "231LZURO91GS"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      "Python",
+      "C++",
+      "Arduino C",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "robotics": [
+      "ROS2 (Humble/Jazzy)",
+      "Robot Operating System (ROS)",
+      "SLAM",
+      "Nav2",
+      "Gazebo",
+      "RViz"
+    ],
+    "computer_vision": [
+      "OpenCV",
+      "Computer Vision",
+      "ArUco Markers",
+      "Face Detection"
+    ],
+    "embedded_systems": [
+      "Arduino",
+      "Arduino IDE",
+      "ESP32",
+      "Raspberry Pi",
+      "Electronics",
+      "Power Electronics"
+    ],
+    "ai_ml": [
+      "Artificial Intelligence (AI)",
+      "Machine Learning",
+      "Embedded Machine Learning",
+      "Natural Language Processing"
+    ],
+    "tools": [
+      "Docker",
+      "Git",
+      "Ubuntu",
+      "Linux"
+    ],
+    "other": [
+      "Mobile Robotics",
+      "Automation",
+      "IoT",
+      "Hardware Integration"
+    ]
+  },
+  "achievements": [
+    {
+      "title": "NXP AIM 2025 Top 30 Teams",
+      "description": "Selected as one of the Top 30 teams in Bangalore region out of 5500+ applicants nationwide",
+      "date": "Jun-Jul 2025"
+    },
+    {
+      "title": "IEEE CIS Article Co-Author",
+      "description": "Co-authored article on Natural Language Processing (NLP) with IEEE CIS MIT Bengaluru",
+      "collaborators": [
+        "Arnav Upadhyay",
+        "Atharva Lotikar"
+      ],
+      "link": "https://lnkd.in/dCa-Eq98"
+    },
+    {
+      "title": "Arduino Workshop Co-Host",
+      "description": "Co-hosted 3-day Arduino Workshop with RADAR, MIT Bangalore on embedded systems and IoT",
+      "organization": "RADAR, MIT BIr"
+    },
+    {
+      "title": "Bose Speaker Repair",
+      "description": "Fixed Bose speaker for less than \u20b9300 after being quoted \u20b913,000 by Bose Corporation",
+      "impact": "Cost saving of 97%"
+    }
+  ],
+  "publications": [
+    {
+      "title": "An Introduction to Natural Language Processing",
+      "publisher": "IEEE CIS MIT Bengaluru",
+      "co_authors": [
+        "Arnav Upadhyay",
+        "Atharva Lotikar"
+      ],
+      "link": "https://lnkd.in/dCa-Eq98"
+    }
+  ]
+}
